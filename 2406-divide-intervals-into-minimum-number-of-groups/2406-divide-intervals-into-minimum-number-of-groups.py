@@ -10,7 +10,6 @@ class Solution:
             events.append((i[0], 1))
             events.append((i[1] + 1, -1))
         sorted_events = sorted(events)  
-        print(sorted_events)
         max_val = 0
         counter = 0
         for x in sorted_events:
