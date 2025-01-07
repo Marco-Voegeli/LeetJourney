@@ -9,6 +9,8 @@ class Solution(object):
         profit = 0
         lowestPrevPrice = prices[0] # Can't have negative stocks
         for i, price in enumerate(prices[1:]):
-            profit = max(price - lowestPrevPrice, profit)
-            lowestPrevPrice = min(lowestPrevPrice, price)
+            if lowestPrevPrice > price:
+                lowestPrevPrice = price
+            elif profit < price - lowestPrevPrice:
+                profit = price - lowestPrevPrice
         return profit
