@@ -12,17 +12,14 @@ public:
         // Remove elements until we land on the same element again
         ListNode* p1 = head;
         ListNode* p2 = head;
-        while(p1 != NULL){
-            p1 = p1->next;
+        if (p1 == NULL){
+            return false;
+        }
+        while(p1->next != NULL && p1->next->next != NULL){
+            p1 = p1->next->next;
+            p2 = p2->next;
             if(p1 == p2){
                 return true;
-            }
-            if(p1 != NULL){
-            p1 = p1->next;
-            if (p1 == p2){
-                return true;
-            }
-            p2 = p2->next;
             }
         }
         return false;
