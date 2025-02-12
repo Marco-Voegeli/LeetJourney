@@ -9,13 +9,21 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        int counter = 0;
-        ListNode* curr = head;
-        while(curr != NULL){
-            if (counter > 10000)
+        // Remove elements until we land on the same element again
+        ListNode* p1 = head;
+        ListNode* p2 = head;
+        while(p1 != NULL){
+            p1 = p1->next;
+            if(p1 == p2){
                 return true;
-            curr = curr->next;
-            counter += 1;
+            }
+            if(p1 != NULL){
+            p1 = p1->next;
+            if (p1 == p2){
+                return true;
+            }
+            p2 = p2->next;
+            }
         }
         return false;
     }
