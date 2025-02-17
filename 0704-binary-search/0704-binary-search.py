@@ -5,13 +5,12 @@ class Solution:
             return -1
         if length == 1:
             return 0 if nums[0] == target else -1
-        mid = length // 2
-        if nums[mid] == target:
+        if nums[length // 2] == target:
             return mid
-        if nums[mid] > target:
+        if nums[length // 2] > target:
             res = self.search(nums[:mid], target)
             return -1 if res < 0 else res
-        if nums[mid] < target:
+        if nums[length // 2] < target:
             res = self.search(nums[mid:], target)
             return -1 if res < 0 else res + mid
         return -1
