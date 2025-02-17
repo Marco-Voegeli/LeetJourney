@@ -12,7 +12,6 @@ class Solution:
             res = self.search(nums[:mid], target)
             return -1 if res < 0 else res
         if nums[mid] < target:
-            print("mid: ", mid)
             res = self.search(nums[mid:], target)
             return -1 if res < 0 else res + mid
         return -1
