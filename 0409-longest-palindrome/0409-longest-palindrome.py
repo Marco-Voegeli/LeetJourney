@@ -1,11 +1,11 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
-        set_s = set(s)
+        set_s = set()
         res = 0
-        carry = False
-        for a in set_s:
-            counter = s.count(a, 0)
-            if counter % 2 != 0:
-                carry = True
-            res += 2* (counter//2)
-        return res + carry
+        for a in s:
+            if a in set_s:
+                set_s.remove(a)
+                res += 2
+            else:
+                set_s.add(a)
+        return res + (len(set_s) > 0)
