@@ -1,10 +1,15 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        num_counter = {}
-        n_half = len(nums) // 2 # Floored
+        nums.sort()
+        n_half = (len(nums)+1) // 2 - 1
+        counter = 0
+        num_focus = nums[0]
         for num in nums:
-            if num in num_counter:
-                num_counter[num] += 1
+            if num == num_focus:
+                counter += 1
+                if counter > n_half:
+                    return num_focus
             else:
-                num_counter[num] = 1
-        return max(num_counter, key=num_counter.get)
+                num_focus = num
+                counter = 1
+        return num_focus
