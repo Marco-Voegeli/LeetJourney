@@ -5,18 +5,15 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def diameter_util(self, root)->int:
+        if not root:
+            return 0
+        left_diam = self.diameter_util(root.left)
+        right_diam = self.diameter_util(root.right)
+        self.diameter = max(self.diameter, left_diam + right_diam)
+        return 1 + max(left_diam, right_diam)
+
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        max_diff = 0
-        def getDepth(root: Optional[TreeNode]) -> int:
-            if not root:
-                return 0, 0
-            else:
-                d_l, max_dl = getDepth(root.left)
-                d_r, max_dr = getDepth(root.right)
-                max_d = max(max_dl, max_dr)
-                if d_l + d_r > max_d:
-                    max_d = d_l + d_r
-                depth = max(1 + d_l, 1 + d_r)
-                return depth, max_d
-        depth, max_d = getDepth(root)
-        return max_d
+        self.diameter = 0
+        self.diameter_util(root)
+        return self.diameter
