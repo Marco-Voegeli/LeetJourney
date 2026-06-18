@@ -1,16 +1,13 @@
-class Solution(object):
-    def maxProfit(self, prices):
-        """
-        :type prices: List[int]
-        :rtype: int
-        """
-        if len(prices) == 2:
-            return max(prices[1] - prices[0], 0)
-        profit = 0
-        lowestPrevPrice = prices[0] # Can't have negative stocks
-        for i, price in enumerate(prices[1:]):
-            if lowestPrevPrice > price:
-                lowestPrevPrice = price
-            elif profit < price - lowestPrevPrice:
-                profit = price - lowestPrevPrice
-        return profit
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        min_p = prices[0]
+        max_p = prices[0]
+        curr_profit = 0
+        for price in prices:
+            if price < min_p:
+                curr_profit = max(curr_profit, max_p-min_p)
+                min_p = price
+                max_p = price
+            if price > max_p:
+                max_p = price
+        return max(curr_profit, max_p-min_p)
