@@ -20,7 +20,6 @@ class Solution:
                     return False
             return True
         strs_with_heatmap = [(heatmap(x), x) for x in strs]
-        print(strs_with_heatmap)
         result = []
         for (heatmap, string) in strs_with_heatmap:
             added = False
