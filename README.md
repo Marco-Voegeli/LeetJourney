@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
@@ -52,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
