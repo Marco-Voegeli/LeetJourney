@@ -1,18 +1,14 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        paren = [0,0,0] # (), [], {}
         open_brackets = {'[': ']', '{': '}', '(': ')'}
-        heap = []
+        stack = []
         for c in s:
             if c in open_brackets:
-                heap.append(c)
+                stack.append(c)
             else:
-                if not heap: 
+                if not stack: 
                     return False
-                last_bracket = heap.pop()
+                last_bracket = stack.pop()
                 if open_brackets[last_bracket] != c:
                     return False
-        if not heap:
-            return True
-        else:
-            return False
+        return not stack
