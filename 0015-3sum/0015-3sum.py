@@ -18,9 +18,9 @@ class Solution:
                     result_set.add((num, num_j, num_k))
                     j += 1
                     k -= 1
-                if sum_zero < 0 :
+                elif sum_zero < 0 :
                     j += 1
-                if sum_zero > 0:
+                elif sum_zero > 0:
                     k -= 1
         return list(result_set)
                 
