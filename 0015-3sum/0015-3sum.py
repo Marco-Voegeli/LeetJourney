@@ -2,8 +2,12 @@ class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         result_set = set()
         sorted_nums = sorted(nums)
-        print(sorted_nums)
+        already_seen_vals = set()
         for i, num in enumerate(sorted_nums):
+            if num in already_seen_vals:
+                continue
+            else:
+                already_seen_vals.add(num)
             j = i + 1
             k = len(nums) - 1
             while j < k:
