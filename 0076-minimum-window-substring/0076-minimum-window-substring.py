@@ -19,13 +19,11 @@ class Solution:
                 if s[rhs] in t_counted:
                     t_counted[s[rhs]] -= 1
                 rhs += 1 
-            print("RHS: ", rhs)
             while lhs < rhs and max(t_counted.values()) <= 0:
                 if s[lhs] in t_counted:
                     t_counted[s[lhs]] += 1
                     new_substring = s[lhs:rhs] 
                     min_string = new_substring if len(new_substring) < len(min_string) else min_string
                 lhs += 1
-            print("LHS: ", lhs)
         return min_string if len(min_string) <= len(s) else ""
                 
