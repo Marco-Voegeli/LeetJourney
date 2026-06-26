@@ -13,17 +13,21 @@ class Solution:
         lhs = 0
         rhs = 0
         min_string = s + "a"
-
+        missing_count = len(t)
         while rhs != len(s):
-            while rhs < len(s) and max(t_counted.values()) > 0:
+            while rhs < len(s) and missing_count > 0:
                 if s[rhs] in t_counted:
                     t_counted[s[rhs]] -= 1
+                    if t_counted[s[rhs]] >= 0:
+                        missing_count -= 1
                 rhs += 1 
-            while lhs < rhs and max(t_counted.values()) <= 0:
+            while lhs < rhs and missing_count <= 0:
                 if s[lhs] in t_counted:
                     t_counted[s[lhs]] += 1
                     new_substring = s[lhs:rhs] 
                     min_string = new_substring if len(new_substring) < len(min_string) else min_string
+                    if t_counted[s[lhs]] > 0:
+                        missing_count += 1
                 lhs += 1
         return min_string if len(min_string) <= len(s) else ""
                 
