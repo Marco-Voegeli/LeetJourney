@@ -5,19 +5,19 @@ class Solution:
         height = len(grid)
         width = len(grid[0])
         def bfs(y,x, grid):
-            if grid[y][x] == 0:
-                return 0
-            queue = deque()
-            for (dy, dx) in directions:
-                if y+dy < 0 or y+dy >= height or x+dx < 0 or x+dx >= width:
-                    continue
-                if grid[y+dy][x+dx] == 1:
-                    queue.append((y + dy, x + dx))
             grid[y][x] = 0
-            max_area = 1
+            queue = deque([(y,x)])
+            max_area = 0
             while queue:
-                (y, x) = queue.pop()
-                max_area += bfs(y,x,grid)
+                (a, b) = queue.pop()
+                max_area += 1
+                for (dy, dx) in directions:
+                    (y, x) = (a + dy, b + dx)
+                    if y < 0 or y >= height or x < 0 or x >= width:
+                        continue
+                    if grid[y][x] == 1:
+                        grid[y][x] = 0
+                        queue.append((y, x))
             return max_area
         i = 0
         res = 0
