@@ -79,12 +79,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -100,4 +102,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
