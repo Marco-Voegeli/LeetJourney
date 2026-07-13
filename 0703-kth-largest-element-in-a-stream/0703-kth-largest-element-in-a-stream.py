@@ -12,7 +12,9 @@ class KthLargest:
             parent_i = (i - 1) // 2 
             if self.nums[i] < self.nums[parent_i]:
                 self.nums[i],self.nums[parent_i] = self.nums[parent_i], self.nums[i]
-            i = parent_i
+                i = parent_i
+            else:
+                break
         return self.nums[0]
     
     def pop(self) -> int:
