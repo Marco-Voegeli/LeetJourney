@@ -10,6 +10,8 @@ class KthLargest:
         if len(self.nums) > self.k:
             heapq.heappop(self.nums)
         return self.nums[0]
+
+        
     def push(self, val:int) -> int:
         self.nums.append(val)
         i = len(self.nums) - 1
