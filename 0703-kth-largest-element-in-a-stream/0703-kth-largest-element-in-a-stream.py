@@ -5,6 +5,11 @@ class KthLargest:
         self.nums = sorted(nums)[-k:]
         self.k = k
 
+    def add(self, val:int) -> int:
+        heapq.heappush(self.nums, val)
+        if len(self.nums) > self.k:
+            heapq.heappop(self.nums)
+        return self.nums[0]
     def push(self, val:int) -> int:
         self.nums.append(val)
         i = len(self.nums) - 1
@@ -35,7 +40,7 @@ class KthLargest:
             i = child
         return self.nums[0]
 
-    def add(self, val: int) -> int:
+    def add_manual(self, val: int) -> int:
         self.push(val)
         if len(self.nums) > self.k:
             return self.pop()
