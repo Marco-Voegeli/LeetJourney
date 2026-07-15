@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0049-group-anagrams/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0242-valid-anagram/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Marco-Voegeli/LeetJourney/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -135,4 +138,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
