@@ -4,6 +4,7 @@ class Solution:
         heap = []
         for num in nums:
             heapq.heappush(heap, num)
-        while len(heap) > k:
-            heapq.heappop(heap)
+            if len(heap)>k:
+                heapq.heappop(heap)
+    
         return heap[0]
