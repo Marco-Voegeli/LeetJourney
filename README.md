@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -155,4 +157,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0621-task-scheduler/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
