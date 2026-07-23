@@ -1,6 +1,7 @@
 import heapq
-from collections import deque
 import collections
+from collections import deque
+
 class Solution:
     def leastInterval(self, tasks: List[str], n: int) -> int:
         tasks_dict = collections.Counter(tasks)
