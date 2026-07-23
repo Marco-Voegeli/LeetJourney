@@ -15,7 +15,6 @@ class Solution:
         res= []
         cooldown_q = deque([])
         time = 0
-        idle = 'idle'
         while tasks_heap or cooldown_q:
             if cooldown_q:
                 (release_time, task_count, released_task) = cooldown_q[0]
@@ -24,13 +23,10 @@ class Solution:
                     heapq.heappush_max(tasks_heap, (task_count, released_task))
             if tasks_heap:
                 task_count, task = heapq.heappop_max(tasks_heap)
-                res.append(task)
                 if task_count > 1:
                     cooldown_q.append((time+n, task_count-1, task))
-            else:
-                res.append(idle)
             time += 1
-        return len(res)
+        return time
 
 
 
