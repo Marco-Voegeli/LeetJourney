@@ -11,7 +11,7 @@ class Solution:
         cooldown_q = deque([])
         time = 0
         while tasks_heap or cooldown_q:
-            if cooldown_q and cooldown_q[0][0] < time:
+            while cooldown_q and cooldown_q[0][0] < time:
                 (release_time, task_count, released_task) = cooldown_q.popleft()
                 heapq.heappush_max(tasks_heap, (task_count, released_task))
             if tasks_heap:
