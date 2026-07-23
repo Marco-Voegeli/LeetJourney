@@ -16,8 +16,6 @@ class Solution:
             return None
         heapq.heapify(heap_list)
         head = ListNode()
-        if not heap_list:
-            return ListNode()
         curr = head
         while heap_list:
             (next_val, i, next_next) = heapq.heappop(heap_list)
