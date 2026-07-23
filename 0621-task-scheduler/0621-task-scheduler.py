@@ -1,14 +1,9 @@
 import heapq
 from collections import deque
-
+import collections
 class Solution:
     def leastInterval(self, tasks: List[str], n: int) -> int:
-        tasks_dict = {}
-        for task in tasks:
-            if task in tasks_dict:
-                tasks_dict[task] += 1
-            else:
-                tasks_dict[task] = 1
+        tasks_dict = collections.Counter(tasks)
         tasks_heap = [(value, key) for (key,value) in tasks_dict.items()]
         heapq.heapify_max(tasks_heap)
         
