@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0217-contains-duplicate/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0198-house-robber/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
