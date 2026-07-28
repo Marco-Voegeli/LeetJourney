@@ -10,10 +10,6 @@ class Solution:
         memoiz = [nums[0], max(nums[0], nums[1])]
         i = 0
         for i in range(2, len(nums)):
-            num = nums[i] + memoiz[i-2]
-            if memoiz[i-1] > num :
-                memoiz.append(memoiz[i-1]) 
-            else:
-                memoiz.append(num)
+            memoiz.append(max(nums[i] + memoiz[i-2], memoiz[i-1]))
         
         return memoiz[-1]
