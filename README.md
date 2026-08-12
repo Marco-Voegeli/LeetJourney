@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
 | [0621-task-scheduler](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Marco-Voegeli/LeetJourney/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0210-course-schedule-ii/) | Medium |
+| [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -172,4 +175,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
