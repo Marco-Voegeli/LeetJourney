@@ -7,7 +7,6 @@ class Solution:
                 memoiz[num] = max(lengths) + 1
             else:
                 memoiz[num] = 1
-        print("memoiz: ", memoiz)
         return max([v for v in memoiz.values()]) 
 
             
