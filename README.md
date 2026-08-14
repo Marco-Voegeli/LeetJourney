@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
 | [0621-task-scheduler](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Marco-Voegeli/LeetJourney/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -183,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
