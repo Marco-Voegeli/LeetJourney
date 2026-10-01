@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0133-clone-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Design
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
