@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0621-task-scheduler/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0704-binary-search/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Marco-Voegeli/LeetJourney/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0621-task-scheduler/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Marco-Voegeli/LeetJourney/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0621-task-scheduler/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0242-valid-anagram/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0621-task-scheduler/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -188,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0621-task-scheduler/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,4 +231,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
