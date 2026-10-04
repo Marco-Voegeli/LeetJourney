@@ -9,30 +9,16 @@ class Solution:
                 freq_dict[word] = 1
 
         heap = []
-        for key, value in freq_dict.items():
-            heappush_max(heap, (value, key))
+        for word in freq_dict:
+            if len(heap) < k:
+                heappush_max(heap, (-freq_dict[word], word))
+            elif freq_dict[word] > -heap[0][0]:
+                heappushpop_max(heap, (-freq_dict[word], word))
+            elif freq_dict[word] == -heap[0][0] and word < heap[0][1] :
+                heappushpop_max(heap, (-freq_dict[word], word))
+        sol = []
+        while len(sol) < k:
+            sol.append(heappop_max(heap)[1])
+        sol.reverse()
+        return sol
 
-        solution = []
-        lex_heap = []
-
-
-        previous_f, word = heappop_max(heap)
-        heappush(lex_heap, word)
-
-        while len(heap):
-            f, word = heappop_max(heap)
-            
-            if previous_f != f:
-                while lex_heap and (sol_word := heappop(lex_heap)):
-                    solution.append(sol_word)
-                
-                if len(solution) >= k:
-                    return solution[:k]
-
-            previous_f = f
-            heappush(lex_heap, word)
-
-        while lex_heap and (sol_word := heappop(lex_heap)):
-            solution.append(sol_word)                
-            
-        return solution[:k]
