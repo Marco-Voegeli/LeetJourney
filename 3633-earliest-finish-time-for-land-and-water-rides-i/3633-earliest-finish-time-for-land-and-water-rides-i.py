@@ -17,7 +17,7 @@ class Solution:
         landEndTime = min(st+d for st,d in zip(landStartTime, landDuration))
         waterEndTime = min(st+d for st,d in zip(waterStartTime, waterDuration))
 
-        ans = 9999999
+        ans = 9999999 # Math.inf
         for st,d in zip(waterStartTime, waterDuration):
             ans = min(ans, max(landEndTime, st) + d)
         for st,d in zip(landStartTime, landDuration):
