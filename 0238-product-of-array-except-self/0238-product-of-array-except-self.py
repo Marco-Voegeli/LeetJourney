@@ -1,18 +1,12 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        # How to build a prefix - at i we need product of all values before i
+        # first prefix
         prefix = [1]
-        for i in range(len(nums)):
-            prefix.append(prefix[i]*nums[i])
-
-        # How to build a suffix - at i we need product of all values after i
-        # So basically flipped
-        suffix = (len(nums) + 1) * [1]
-        for i in range(len(nums)-1, -1, -1):
-            suffix[i] = suffix[i+1]*nums[i]
-
-        prefix = prefix[:-1]
-        suffix = suffix[1:]
-        for i in range(len(nums)):
-            nums[i] = prefix[i] * suffix[i]
-        return nums
+        for num in nums[:-1]:
+            prefix.append(num*prefix[-1])
+        # then suffix
+        suffix = [1]
+        for num in nums[::-1]:
+            suffix.append(num*suffix[-1])
+        suffix.reverse()
+        return [a*b for (a,b) in zip(prefix, suffix[1:])]
