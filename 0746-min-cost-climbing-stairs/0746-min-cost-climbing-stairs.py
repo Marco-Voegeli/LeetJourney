@@ -11,14 +11,4 @@ class Solution:
                 two_step = memoiz[i+2]
             res += min(one_step, two_step)
             memoiz[i] = res 
-        print(memoiz)
-        def recurse(i):
-            if i >= len(cost):
-                return 0
-            if i in memoiz:
-                return memoiz[i]
-            else:
-                res = cost[i] + min(recurse(i + 1), recurse(i+2))
-                memoiz[i] = res
-                return res
         return min(memoiz[0], memoiz[1])
