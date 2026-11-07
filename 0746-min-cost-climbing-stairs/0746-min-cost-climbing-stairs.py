@@ -1,11 +1,14 @@
 class Solution:
-    def minCostClimbingStairs(self, cost: List[int]) -> int:
-        first = cost[0]
-        second = cost[1]
-        if len(cost) < 3: 
-            return min(first, second)
-        for i in range(2, len(cost)):
-            curr = cost[i] + min(first, second)
-            first = second
-            second = curr
-        return min(first, second)
+    def minCostClimbingStairs(self, cost: list[int]) -> int:
+        memoiz = {}
+    
+        def recurse(i):
+            if i >= len(cost):
+                return 0
+            if i in memoiz:
+                return memoiz[i]
+            else:
+                res = cost[i] + min(recurse(i + 1), recurse(i+2))
+                memoiz[i] = res
+                return res
+        return min(recurse(0), recurse(1))
