@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0704-binary-search/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Marco-Voegeli/LeetJourney/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
