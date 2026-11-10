@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0257-binary-tree-paths/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Marco-Voegeli/LeetJourney/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Dynamic Programming
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0210-course-schedule-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0257-binary-tree-paths/) | Easy |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0257-binary-tree-paths/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -186,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0257-binary-tree-paths/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -260,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0216-combination-sum-iii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0257-binary-tree-paths/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
