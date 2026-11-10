@@ -1,11 +1,19 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        memo = [0] # amount, num_coins
-        for i in range(1, amount+1):
-            min_num = float('inf')
-            for choice in coins:
-                if i-choice >= 0 and i - choice < len(memo):
-                    min_num = min(min_num, 1+memo[i-choice])  
-            memo.append(min_num)
-        
-        return memo[amount] if memo[amount] < float('inf') else -1
+        memo = {}
+        def rec(new_amount):
+            queue = []
+            if new_amount in memo:
+                return memo[new_amount]
+            if new_amount < 0:
+                return math.inf
+            if new_amount == 0:
+                return 0
+            else:
+                for c in coins:
+                    queue.append(new_amount - c)
+                res = 1 + min([rec(a) for a in queue]) 
+                memo[new_amount] = res
+                return res
+        res = rec(amount)
+        return res if res < math.inf else -1
