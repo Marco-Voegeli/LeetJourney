@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0079-word-search/) | Medium |
 | [0242-valid-anagram](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0257-binary-tree-paths/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0133-clone-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
@@ -263,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0257-binary-tree-paths/) | Easy |
 ## Bit Manipulation
