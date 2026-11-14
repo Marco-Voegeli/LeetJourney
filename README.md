@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0257-binary-tree-paths/) | Easy |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0743-network-delay-time/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,11 +138,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0743-network-delay-time/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0210-course-schedule-ii/) | Medium |
 | [0743-network-delay-time](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0743-network-delay-time/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
