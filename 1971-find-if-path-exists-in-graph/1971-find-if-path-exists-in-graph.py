@@ -10,7 +10,6 @@ class Solution:
         queue.append(source)
         while queue:
             v = queue.popleft()
-            print("v: ", v)
             if v in visited:
                 continue
             if v == destination:
