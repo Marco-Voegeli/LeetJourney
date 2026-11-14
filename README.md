@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0210-course-schedule-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0257-binary-tree-paths/) | Easy |
+| [0547-number-of-provinces](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0210-course-schedule-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
