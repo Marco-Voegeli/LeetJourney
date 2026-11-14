@@ -12,7 +12,12 @@ class Solution:
                 return True
             visited.add(position)
             res = False
+            queue = []
             for v in edges_dict[position]:
+                if v == destination:
+                    return True
+                queue.append(v)
+            for v in queue:
                 res = res or bfs(v)
             return res
         return bfs(source)
