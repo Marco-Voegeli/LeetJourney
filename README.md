@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0078-subsets/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0133-clone-graph/) | Medium |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0036-valid-sudoku/) | Medium |
 | [0079-word-search](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Marco-Voegeli/LeetJourney/tree/main/0695-max-area-of-island/) | Medium |
